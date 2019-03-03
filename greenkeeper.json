@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "aws_lambda_api_service/poi/package.json"
+      ]
+    }
+  }
+}
